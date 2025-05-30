@@ -15,11 +15,11 @@ Power BI Desktop: The primary data visualization platform used for report creati
 Power Query: Used for data transformation and cleaning to reshape and clarify data.
 DAX (Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic (Attrition Rate).
 File Format: .pbix for Development and .png for Dashboard previews.
-4. Data Source :
+5. Data Source :
    https://bit.ly/3TmtJnf
   
 
-5. Features/Highlights
+6. Features/Highlights
 
 (i) Business Problem:
 The primary business problem this dashboard aims to address is employee attrition. High employee turnover can be costly for an organization due to expenses related to recruitment, onboarding, training, and lost productivity. Understanding the factors contributing to attrition is crucial for developing effective retention strategies. This dashboard likely seeks to identify patterns and trends in employee departures to help HR and management understand why employees are leaving and which groups are most affected.
@@ -41,8 +41,10 @@ Attrition Rate (16.1%): This crucial metric represents the percentage of employe
 Average Age (37): This shows the average age of all employees, which can be compared to the average age of those who have left.
 Average Salary (6.5K): This appears to show the average salary for a specific group (likely based on age or another filter applied in the interactive dashboard).
 
-(iv) Potential Business Impact/Business Problem:
+(iv) Potential Business Impact/Business Porblems :
 Reduce Recruitment and Training Costs: Lowering attrition directly reduces the expenses associated with replacing departing employees.
 Improve Employee Morale and Productivity: Higher retention can lead to a more stable and experienced workforce, boosting overall morale and productivity.
-Enhance Employer Branding: A reputation for retaining employees can attract better talent in the future.
+Enhance Employer Branding: A reputation for retaining employees can attract better talent in the future. 
 Make Data-Driven HR Decisions: The dashboard provides a factual basis for developing and evaluating HR policies 
+
+
