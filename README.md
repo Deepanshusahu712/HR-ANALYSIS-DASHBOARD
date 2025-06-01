@@ -1,5 +1,5 @@
-# HR-ANALYSIS-DASHBOARD
-![image](https://github.com/user-attachments/assets/bff5c60f-a85c-4b7a-ba44-76eab4f38a51)
+# DASHBOARD-HR ANALYSIS
+
 Overview of DashBoard :
 
 
