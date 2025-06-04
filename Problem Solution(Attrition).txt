@@ -1,0 +1,66 @@
+Q1. What is the total number of employees in the company?
+sol.
+-Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+Add empID to the Field: Drag the 'EmpID' field from your dataset's Fields list and drop it into the "Fields"  
+Click on the 'EmpID' field within the "Fields" well of the card visualization.
+From the dropdown menu that appears, choose "Count (Distinct)" to count each unique employee ID.
+
+Q2. What is the total number of employees who have left the company (attrition)?
+ Create an "Attrition Count" Column in Power Query
+In Power Query, you can create a new column to represent attrition status as 1 for "Yes" and 0 for "No`.
+
+This will add a new column to your dataset indicating whether an employee has left the company.
+
+ Create a DAX Measure to Calculate Total Attrition
+Once the "Attrition Count" column is added, you can create a DAX measure to calculate the total number of employees who have left the company.
+
+In Power BI Desktop, go to the Modeling tab and click on New Measure.
+Total Attrition = SUM('HR Analysis'[Attrition Count])
+
+Q3.What is the company’s overall attrition rate?
+Total Attrition (Employees Who Left) follow the step same Q2 and then create DEX formula for Attrition Rate 
+Total EmployeeCount step same Q1 follows
+
+Attrition_Rate = SUM(HR_Analytics[AttritionCount])/SUM(HR_Analytics[EmployeeCount])
+
+Q4.What is the count of attrition among male and female employees?
+    "Create a Treemap in Power BI where:
+
+Category: Gender (e.g., Male, Female)
+Values: Age Group (e.g., 20-29, 30-39)
+Count: Number of employees in each gender and age group combination
+
+Q5.. What is the number of attritions in the following age groups: 18-25, 26-35, 36-45, 46-55, and 55+?
+Select Visualization Type:
+
+
+Choose the "Stacked Bar Chart" .
+Locate the "X-axis" as field well in your visualization 
+Drag and drop the 'Age Group' field from table.
+Locate the "Y-axis" as field well in your visualization
+Drag and drop the 'AttritionCount'  and count then to find the required answer
+
+
+
+Q6. What is the average age of the employees in the company?
+   Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+Add age to the Field: Drag the 'age' field from your dataset's Fields list and drop it into the "Fields"  
+Click on the 'age' field within the "Fields" well of the card visualization.
+From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
+
+Q7. What is the average salary of the employees in the company?
+ 
+   Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+Add MonthlyIncome to the Field: Drag the 'MonthlyIncome' field from your dataset's Fields list and drop it into the "Fields"  
+Click on the 'MonthlyIncome' field within the "Fields" well of the card visualization.
+From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
+ Q8. What is the average number of years employees have been in the company?
+
+Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+Add yearatcompany to the Field: Drag the 'yearatcompany' field from your dataset's Fields list and drop it into the "Fields"  
+Click on the 'yearatcompany' field within the "Fields" well of the card visualization.
+From the dropdown menu that appears, choose "Average" to find the average lifespan of employee in company 
+
+Q9.. Are there any noticeable patterns or trends in attrition based on Education Field, Age, Salary Slab, Years at Company, or Job Role?
+      /
+
