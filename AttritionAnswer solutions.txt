@@ -6,7 +6,7 @@ From the dropdown menu that appears, choose "Count (Distinct)" to count each uni
 
 Q2. What is the total number of employees who have left the company (attrition)?
 - Create an "Attrition Count" Column in Power Query
--In Power Query, you can create a new column to represent attrition status as 1 for "Yes" and 0 for "No`.
+- In Power Query, you can create a new column to represent attrition status as 1 for "Yes" and 0 for "No`.
 
 This will add a new column to your dataset indicating whether an employee has left the company.
 
@@ -38,22 +38,22 @@ Select Visualization Type:
 
 
 Q6. What is the average age of the employees in the company?
- - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
- - Add age to the Field: Drag the 'age' field from your dataset's Fields list and drop it into the "Fields"  
- - Click on the 'age' field within the "Fields" well of the card visualization.
- - From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
+- Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+- Add age to the Field: Drag the 'age' field from your dataset's Fields list and drop it into the "Fields"  
+- Click on the 'age' field within the "Fields" well of the card visualization.
+- From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
 
 Q7. What is the average salary of the employees in the company?
- - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
- - Add MonthlyIncome to the Field: Drag the 'MonthlyIncome' field from your dataset's Fields list and drop it into the "Fields"  
- - Click on the 'MonthlyIncome' field within the "Fields" well of the card visualization.
- - From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
+- Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+- Add MonthlyIncome to the Field: Drag the 'MonthlyIncome' field from your dataset's Fields list and drop it into the "Fields"  
+- Click on the 'MonthlyIncome' field within the "Fields" well of the card visualization.
+- From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
 
 Q8. What is the average number of years employees have been in the company?
- - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
- - Add yearatcompany to the Field: Drag the 'yearatcompany' field from your dataset's Fields list and drop it into the "Fields"  
- - Click on the 'yearatcompany' field within the "Fields" well of the card visualization.
- - From the dropdown menu that appears, choose "Average" to find the average lifespan of employee in company 
+- Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+- Add yearatcompany to the Field: Drag the 'yearatcompany' field from your dataset's Fields list and drop it into the "Fields"  
+- Click on the 'yearatcompany' field within the "Fields" well of the card visualization.
+- From the dropdown menu that appears, choose "Average" to find the average lifespan of employee in company 
 
 Q9. Are there any noticeable patterns or trends in attrition based on Education Field, Age, Salary Slab, Years at Company, or Job Role?
 
