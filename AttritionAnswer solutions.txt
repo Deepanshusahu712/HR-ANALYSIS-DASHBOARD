@@ -23,10 +23,10 @@ Q3.What is the company’s overall attrition rate?
 Attrition_Rate = SUM(HR_Analytics[AttritionCount])/SUM(HR_Analytics[EmployeeCount])
 
 Q4.What is the count of attrition among male and female employees?
- - "Create a Treemap in Power BI where:
- - Category: Gender (e.g., Male, Female)
- - Values: Age Group (e.g., 20-29, 30-39)
- - Count: Number of employees in each gender and age group combination
+- "Create a Treemap in Power BI where:
+- Category: Gender (e.g., Male, Female)
+- Values: Age Group (e.g., 20-29, 30-39)
+- Count: Number of employees in each gender and age group combination
 
 Q5. What is the number of attritions in the following age groups: 18-25, 26-35, 36-45, 46-55, and 55+?
 Select Visualization Type:
@@ -38,21 +38,22 @@ Select Visualization Type:
 
 
 Q6. What is the average age of the employees in the company?
-  - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+ - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
  - Add age to the Field: Drag the 'age' field from your dataset's Fields list and drop it into the "Fields"  
  - Click on the 'age' field within the "Fields" well of the card visualization.
  - From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
 
 Q7. What is the average salary of the employees in the company?
-  - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
+ - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
  - Add MonthlyIncome to the Field: Drag the 'MonthlyIncome' field from your dataset's Fields list and drop it into the "Fields"  
  - Click on the 'MonthlyIncome' field within the "Fields" well of the card visualization.
  - From the dropdown menu that appears, choose "Average" to find the average age of employee in a company
- Q8. What is the average number of years employees have been in the company?
+
+Q8. What is the average number of years employees have been in the company?
  - Create a new Card Visualization: From the visualization pane, select the "Card" visualization type.
  - Add yearatcompany to the Field: Drag the 'yearatcompany' field from your dataset's Fields list and drop it into the "Fields"  
  - Click on the 'yearatcompany' field within the "Fields" well of the card visualization.
-- From the dropdown menu that appears, choose "Average" to find the average lifespan of employee in company 
+ - From the dropdown menu that appears, choose "Average" to find the average lifespan of employee in company 
 
 Q9. Are there any noticeable patterns or trends in attrition based on Education Field, Age, Salary Slab, Years at Company, or Job Role?
 
