@@ -34,15 +34,9 @@ The HR Analytics Dashboard is a visually engaging and analytical Power BI tool i
     Enable data-driven decision-making by equipping HR and management with actionable insights to develop targeted retention strategies and reduce employee turnover.
     Monitor the impact of retention initiatives, potentially tracking attrition trends over time to assess the effectiveness of implemented strategies.
 
-(iii) Walk-through of Key Visuals:
-   Summary Statistics:
-   Count of Employees (1470): This shows the total number of employees in the organization, providing context for the attrition figures.
-   Attrition (237): This displays the total number of employees who have left the organization.
-   Attrition Rate (16.1%): This crucial metric represents the percentage of employees who have left, allowing for benchmarking and tracking progress.
-   Average Age (37): This shows the average age of all employees, which can be compared to the average age of those who have left.
-   Average Salary (6.5K): This appears to show the average salary for a specific group (likely based on age or another filter applied in the interactive dashboard).
 
-(iv) Potential Business Impact/Business Porblems :
+
+(iii) Potential Business Impact:
 
      Reduce Recruitment and Training Costs: Lowering attrition directly reduces the expenses associated with replacing departing employees.
    
