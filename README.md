@@ -15,7 +15,7 @@ HR Analytics Dashboard: Overview
  Work-Life Balance Indicators: Analyzes factors influencing employee satisfaction and potential burnout.
 
 3. Technology Stack
-Tool/Tech	Purpose
+ Tool/Tech	Purpose
  Power BI Desktop	Primary platform for building interactive dashboards
  Power Query	Data cleaning and transformation
  DAX	Custom measures and logic (e.g., calculating attrition)
