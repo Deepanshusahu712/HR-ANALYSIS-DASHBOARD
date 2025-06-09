@@ -9,10 +9,8 @@ HR Analytics Dashboard: Overview
 2. Key Components
  Attrition Insights: Tracks overall attrition rates and employee counts, helping identify patterns across demographics such as job roles, departments, 
  education, age, salary brackets, and tenure.
-
-  Employee Engagement: Highlights the importance of recognition and constructive feedback to boost morale and reduce turnover.
-
-  Work-Life Balance Indicators: Analyzes factors influencing employee satisfaction and potential burnout.
+   Employee Engagement: Highlights the importance of recognition and constructive feedback to boost morale and reduce turnover.
+   Work-Life Balance Indicators: Analyzes factors influencing employee satisfaction and potential burnout.
 
 3. Technology Stack
  Tool/Tech	Purpose
