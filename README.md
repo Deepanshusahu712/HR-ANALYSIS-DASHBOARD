@@ -23,19 +23,19 @@ HR Analytics Dashboard: Overview
 4. Data Source
  Employee Data CSV
 
-5. Features & Highlights
-   
+5. Features & Highlights   
   (i) Business Problem
    High employee attrition increases costs related to hiring, onboarding, and productivity loss.
    The dashboard helps identify why employees leave, and who is most at risk, enabling proactive interventions.
-
- (ii) Dashboard Goals
+   
+   (ii) Dashboard Goals
    Visualize attrition metrics clearly.
    Analyze attrition trends across multiple dimensions (education, age, tenure, salary, etc.).
    Support HR strategy with actionable insights.
    Track effectiveness of retention efforts over time.
+   
+   (iii) Potential Business Impact
 
- (iii) Potential Business Impact
         💰 Reduce costs in recruitment and training.
         😊 Improve morale & productivity with a more stable workforce.
         ⭐ Enhance employer branding by demonstrating low turnover.
